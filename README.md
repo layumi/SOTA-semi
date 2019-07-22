@@ -12,6 +12,8 @@
 | Interpolation Consistency Training |   38.60 |       | 6.81 |
 | MixMatch    | 11.80 | -     | 6.00  |
 
+https://arxiv.org/pdf/1804.09170.pdf
+
 - CIFAR100
 
 |             | 250   | 1000  | 10,000  |
